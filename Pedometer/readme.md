@@ -6,7 +6,7 @@ This was a fun little project for me! I enjoy prototyping, but never had the cha
 
 Since I wanted to save the Flora sensor for other projects in the class, I took a small perfboard and soldered components I had available to an Arduino Pro Micro. I chose the Pro Micro because I had it readily available from a previous project and it’s small in size which was perfect for this purpose. None of the components I used were designed with the intention of being integrated into clothing, but since all of them were relatively compact - I had no issue fitting them into a small pocket I stitched together from synthetic fabric scraps. I attached a string to the back of the pocket and knotted it a few times to make it thicker. I tightened it around my belt, and made sure it was snug. 
 
-<img src="pics/ped-schematic.jpg" width=500px>
+<img src="pics/ped-schematic.png" width=500px>
 
 The first trial wasn’t great because I initially designed the code thinking the device was going to be around my wrist. I adjusted the sensitivity of the algorithm and after a little bit of trial and error an acceptable balance and was pretty satisfied with the results. The reason I wanted the device to be on my hips rather than the wrist was because it gave me access to my pockets, which allowed me to draw power directly from a power bank without any trouble. Ideally, I would have integrated a small lithium battery into the circuit, but that worked well enough for the purposes of this demonstration.
 
