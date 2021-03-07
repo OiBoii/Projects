@@ -2,7 +2,7 @@
 
 This was a fun little project for me! I enjoy prototyping, but never had the chance to try and make a wearable device. The algorithm for the code and the schematics were straight forward, so I spent my time focusing on the design aspect. I am not currently home, and don’t have any old clothes to spare, so I decided to make this an integrated device, rather than an embedded one. The challenge was trying to keep it stable. For that reason, I decided to go for the old fashioned design of the clip-on pedometer.
 
-<img src="https://github.com/OiBoii/Projects/edit/main/Pedometer/pics/ped-plan.jpg" width=500px>
+<img src="pics/ped-plan.jpg" width=500px>
 
 Since I wanted to save the Flora sensor for other projects in the class, I took a small perfboard and soldered components I had available to an Arduino Pro Micro. I chose the Pro Micro because I had it readily available from a previous project and it’s small in size which was perfect for this purpose. None of the components I used were designed with the intention of being integrated into clothing, but since all of them were relatively compact - I had no issue fitting them into a small pocket I stitched together from synthetic fabric scraps. I attached a string to the back of the pocket and knotted it a few times to make it thicker. I tightened it around my belt, and made sure it was snug. 
 
