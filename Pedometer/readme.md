@@ -15,3 +15,4 @@ Overall, I enjoyed the process, refreshed my soldering skills and learned a bit 
 <img src="pics/ped-prototype.jpg" width=500px>
 
 **The Code:** [Pedometer](https://github.com/OiBoii/Projects/blob/main/Pedometer/Pedometer.ino)
+**Video  Link:** [Demo](https://photos.app.goo.gl/F5Hb5pNxf9uHUz1LA)
