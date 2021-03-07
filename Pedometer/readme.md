@@ -14,4 +14,4 @@ Overall, I enjoyed the process, refreshed my soldering skills and learned a bit 
 
 <img src="pics/ped-prototype.jpg" width=500px>
 
-**The Code:** [Pedometer!](https://github.com/OiBoii/Projects/blob/main/Pedometer/Pedometer.ino)
+**The Code:** [Pedometer](https://github.com/OiBoii/Projects/blob/main/Pedometer/Pedometer.ino)
